@@ -8,7 +8,6 @@ git commit -m"what do you want to say" (git commit -m"this is a push from yuan")
 # push your code to github
 git push origin ur-branch (git push origin master)
 
-
 ---
 git pull origin ur-branch (git pull origin master)
 
