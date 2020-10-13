@@ -1,0 +1,5 @@
+BasicServlet.class
+ChatManager.class
+entity\Message.class
+entity\MessageList.class
+XMLUtils.class

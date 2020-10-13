@@ -1,0 +1,19 @@
+textarea {
+    border-radius: 5px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+body > * {
+    filter: invert(100%);
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    border-radius: 5px;
+}
